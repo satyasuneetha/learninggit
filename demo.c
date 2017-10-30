@@ -1,1 +1,2 @@
-This is a sample c prgm. 
+This is a sample c prgm.
+Adding some data to pratice rebase:q 
