@@ -1,2 +1,1 @@
-this is supposed to be a c prgm in branch node named br1
-
+This is a sample c prgm. 
